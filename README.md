@@ -14,8 +14,6 @@ Java base tic tac toe game
 
 ## Screenshots
 
-![App Screenshot](./app/src/main/res/drawable/mobile.png)
-![App Screenshot](./app/src/main/res/drawable/circle.png)
-![App Screenshot](./app/src/main/res/drawable/cross.png)
-![App Screenshot](./app/src/main/res/drawable/player.png)
+<img src="./app/src/main/res/drawable/mobile.png" height="600"  align="center />
+
 
