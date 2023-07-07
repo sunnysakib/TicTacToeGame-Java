@@ -14,6 +14,6 @@ Java base tic tac toe game
 
 ## Screenshots
 
-<img src="./app/src/main/res/drawable/mobile.png" height="600"  align="center />
+<img src="./app/src/main/res/drawable/mobile.png" height="600"  align="center" />
 
 
